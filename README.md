@@ -14,5 +14,8 @@
 ###YHQRC
 [AVFoundation - 二维码识别](http://www.jianshu.com/p/366065525961)
 
+###ThemeDemo
+[再谈 Swift 换肤功能](http://www.jianshu.com/p/ea0f60dfd0f1)
+
 ###所有文章
 [所有Demo相关的文章](http://www.jianshu.com/u/a4b11b398b1e)
